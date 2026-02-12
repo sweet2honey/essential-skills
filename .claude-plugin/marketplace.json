@@ -6,7 +6,7 @@
     },
     "plugins": [
         {
-            "name": "essential-skills-hw",
+            "name": "essential-skills",
             "source": "./",
             "author": {
                 "name": "Henry Wu",
