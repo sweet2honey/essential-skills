@@ -1,0 +1,17 @@
+{
+    "name": "essential-skills-hw",
+    "owner": {
+        "name": "Henry Wu",
+        "email": "sweet2honey@qq.com"
+    },
+    "plugins": [
+        {
+            "name": "essential-skills-hw",
+            "source": "./",
+            "author": {
+                "name": "Henry Wu",
+                "email": "sweet2honey@qq.com"
+            }
+        }
+    ]
+}

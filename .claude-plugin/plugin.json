@@ -1,0 +1,9 @@
+{
+    "name": "essential-skills-hw",
+    "description": "Migrated from standalone configuration",
+    "version": "1.0.0",
+    "author": {
+        "name": "Henry Wu",
+        "email": "sweet2honey@qq.com"
+    }
+}
