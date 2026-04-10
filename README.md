@@ -32,3 +32,4 @@ These commands copy every skill in this repository, such as `code-study-roadmap`
 # What's inside
 1. **code-study-roadmap** - Generates a progressive roadmap to study and understand a codebase (ideas → usage → internals → quizzes), including Mermaid diagrams.
 2. **daily-word-card** - Generates 2 to 4 compact study-card examples for an English word or short phrase, centered on everyday verb-object phrases with Chinese translations.
+3. **cpp-standard-audit** - Analyzes C++ source for standard-compliance issues, undefined behavior, and cross-standard-version differences.
