@@ -6,7 +6,7 @@ Curated, reusable **skills** packaged as a **Claude Code plugin**.
 ## Claude Code (Plugin Marketplace)
 ```shell
 /plugin marketplace add sweet2honey/essential-skills
-/plugin install essential-skills@essential-skills-hw
+/plugin install essential-skills@essential-skills
 ```
 
 
