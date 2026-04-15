@@ -26,10 +26,11 @@ mkdir -p ~/.copilot/skills
 cp -R essential-skills/skills/* ~/.copilot/skills/
 ```
 
-These commands copy every skill in this repository, such as `code-study-roadmap` and `daily-word-card`, into a GitHub Copilot-aware folder.
+These commands copy every skill in this repository, such as `code-study-roadmap`, `daily-word-card`, and `philosophy-puffer`, into a GitHub Copilot-aware folder.
 
 
 # What's inside
 1. **code-study-roadmap** - Generates a progressive roadmap to study and understand a codebase (ideas → usage → internals → quizzes), including Mermaid diagrams.
 2. **daily-word-card** - Generates 2 to 4 compact study-card examples for an English word or short phrase, centered on everyday verb-object phrases with Chinese translations.
 3. **cpp-standard-audit** - Analyzes C++ source for standard-compliance issues, undefined behavior, and cross-standard-version differences.
+4. **philosophy-puffer** - Rewrites short text into dense, theory-flavored pseudo-philosophical prose with adjustable intensity and styles like Hegelian, Lacanian, or academic-bluff.
